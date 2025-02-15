@@ -1,0 +1,12 @@
+1072: It looks like this room is divided into two levels. The ceiling that just came down must be the floor of the upper level.
+14554: But...it's pitch black up there. From here, we can't see anything at all.
+22528: It seems we'll have to go up with the ceiling to see what's up there. I pressed the lower side of the switch earlier. I'm guessing if we press the upper side, it should lift the ceiling.
+37465: What are we waiting for? Let's hurry.
+40482: But, we can only send one person up.
+44150: Why?
+45251: Because we don't know if there's a switch up there to lower the ceiling. If both of us go up, and there's no switch on the upper level, and the only steel door is on the lower level, then no one can control the switch below to lower the ceiling again. Even if the steel door opens, we won't be able to leave.
+63743: Oh, right, that makes sense.
+66756: The situation is unclear up there, I'll go up and take a look first.
+70511: Hey hey hey buddy, you can't always be the one rushing in front when there's danger. Let me go up this time!
+78314: Alright, then. Be careful, and if anything happens, shout for me immediately, and I'll lower you down right away.
+84767: Okay.

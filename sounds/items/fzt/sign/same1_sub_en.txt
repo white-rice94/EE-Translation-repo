@@ -1,0 +1,3 @@
+32:Also has text on the left,
+1455:And arrow on the right.
+3842:So far I haven't noticed any differences. 

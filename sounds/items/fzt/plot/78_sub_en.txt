@@ -1,0 +1,28 @@
+141:Because of the word "Exit."
+1941:Emergency exit,
+3180:The sign indicates an exit.
+5275:The small figure in the middle of the doorframe,
+7059:Must be walking outward.
+9289:However,
+10358:The one we chose earlier...
+13248:Remember when we used the process of elimination the second time?
+16408:Among the three remaining signs,
+17866:Two were identical,
+19759:With no white dot under the figure's feet.
+22002:And one sign was different,
+25208:With a white dot under the figure's feet.
+29114:The key,
+30034:Is that white dot.
+32066:I just realized,
+33898:This might not be an ordinary white dot,
+37098:But rather represents the figure's shadow!
+39859:Outside the door is the bright area,
+42107:The light from outside shines on the figure,
+44824:Casting a shadow beneath their feet,
+47387:This confirms the figure is walking outward,
+50419:If the sign with the shadow under the figure indicates walking outward,
+54188:Then the sign we originally chose,
+56552:With no shadow under the figure,
+58839:Must mean the figure is walking inward!
+63017:Oh,
+63524:So that's how it is! 

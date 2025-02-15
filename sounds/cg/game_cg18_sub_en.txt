@@ -1,0 +1,21 @@
+7083: Bro, the door is open! And it opens outwards! I'll get you down now.
+14019: Strange?
+15939: What's strange?
+17818: How come this vent opened too?
+20613: You mean, the vent next to the sign?
+23627: Yeah, only the vent next to the sign I took down opened.
+28169: Sigh, don't think too much about it, getting out is what's important right now. I don't want to stay in this godforsaken place for another second.
+49534: Let's get going!
+53794: Wait a minute, I feel like something's not right.
+57433: Come on, bro, don't always be so suspicious. The door's open, why aren't we leaving? Stop standing around, let's go!
+66189: Take another look at the note with the hint.
+69463: "Find the correct emergency exit, and the door will open." What's wrong with that?
+75642: The note never said that the door is the emergency exit.
+78989: Bro, are you confused? If the door isn't the exit, then what is?
+86317: Could that vent... be the real "emergency" exit?
+90721: Who would leave the door and go climb through a vent? Stop thinking too much. We've solved the riddle on the note, let's not delay any longer. Any more delays and the people who captured us might close the door again. At that point, we might really not be able to get out.
+106124: No, I think we should go out through the vent.
+111212: Alright, bro, I'll get you up there... be careful!
+116387: Zheng Ming, you should come with me through the emergency exit!
+120475: This time... I don't trust your judgment. I also hope you're right. Maybe we'll end up in the same place in the end... I'll see you outside!
+134000: Goodbye, bro.

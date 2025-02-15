@@ -1,0 +1,5 @@
+927:Among these three signs,
+3048:Two of them look identical,
+5092:The other one has a subtle difference.
+7784:Quick, tell me,
+8357:What's the difference? 

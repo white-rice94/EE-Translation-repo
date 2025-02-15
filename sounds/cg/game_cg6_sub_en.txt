@@ -1,0 +1,57 @@
+618: Huh,
+1782: That's strange,
+3342: Who put this coat on me?
+6072: This coat...
+7347: It's not yours?
+9029: Nope.
+12354: Hmm?
+13515: Feels like there's something in the pocket.
+15822: This seems to be...
+17867: a note?
+19543: A, a note?
+21358: I'm guessing,
+22158: the person who put this coat on you,
+23983: did it to leave you this note.
+27305: Left for me?
+29378: Why would they leave it for me?
+31013: What does it say?
+34391: "Find the correct emergency exit,
+36905: and the door will open."
+40612: Emergency exit?
+42223: There's no emergency exit here...
+45066: Hmm,
+46222: this note was deliberately placed in the coat pocket,
+49390: and the coat was deliberately put on you...
+52504: Clearly, it's a hint.
+55016: There must be an emergency exit in this room,
+57684: we just haven't found it yet.
+60142: But we just searched the whole room,
+63117: and we definitely didn't find any emergency exits.
+66488: Ugh, never mind,
+67714: let's forget about that for now,
+69080: tell me first, what's your name,
+71202: and what were you doing before
+72869: you came here?
+75939: Uh, my name is Zheng Ming, and I'm an electrician...
+78912: I remember
+80342: before I came here,
+82207: I was installing electrical wiring in a game center that was almost finished.
+87001: A game center?
+88811: Yeah,
+90057: the kind where you play escape rooms,
+92593: it's called...
+93585: Right,
+94366: it's called "Illusion Game Center,"
+96251: I saw it when I was installing the exterior wiring.
+99560: Wait a minute,
+100490: before I came here,
+101724: I was at Illusion Game Center too!
+103930: What?
+106330: So you're saying,
+107468: it's possible that we were both taken here from the Illusion Game Center.
+112905: Hey buddy,
+114327: what do you think this place is?
+117715: Could it be a room inside the game center?
+121477: Ugh, it's hard to say.
+123449: there aren't
+124112: even any windows, there's no way to tell where we are.

@@ -1,0 +1,19 @@
+186:On this sign,
+1557:There's a small white dot under the figure's right foot,
+4101:The other two signs don't have it.
+6486:So following the puzzle maker's logic,
+9936:The sign that's different,
+11580:Is probably wrong too, right?
+13642:Yes,
+14877:Now we're down to two signs,
+17318:We need to choose
+18989:The correct one between these two.
+21210:But the problem is,
+22542:I've looked many times,
+23881:These two remaining signs are exactly identical.
+27228:Exactly identical?
+29224:Maybe...
+30059:Could you check again carefully?
+31750:They're the same,
+32677:Really the same.
+34430:No differences at all. 

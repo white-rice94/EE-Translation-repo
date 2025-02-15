@@ -1,0 +1,3 @@
+580:There's an arrow on the left side of the doorframe,
+3280:With Chinese characters "安全出口",
+5790:And the English word "exit" on the right side. 

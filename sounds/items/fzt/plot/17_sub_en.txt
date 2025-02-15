@@ -1,0 +1,8 @@
+869:Brother,
+2560:You said this hint was deliberately put in my pocket,
+5346:Could there be hints in your pockets too?
+8272:It's possible.
+9811:I'll check my clothes pockets for clues,
+12643:You should check your clothes too,
+14078:There might be something we haven't found.
+17017:Okay. 

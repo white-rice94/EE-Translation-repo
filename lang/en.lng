@@ -1,0 +1,146 @@
+lang=English
+translator=translated by white rice in the help with google translation.
+
+menu_action_note=Use the up and down arrow keys to browse through the menu, press enter to confirm, and press ESC to return to the previous menu.
+menu_action_note_android=swipe left or right to browse through the menu, double-tap to confirm,and swipe up to return to the previous menu.
+
+main_menu=Main menu
+new_game=Start a new game
+load_game=Load a game saved before
+help=Help
+history=Update logs(English version is not provided)
+options=Game options
+exit_game=Exit game
+
+load_menu=Load menu
+sav_not_found=No save files were found.
+game_load_failed=Failed to load the game.
+
+options_menu=Game options menu
+enabled=Enabled
+disabled=Disabled
+select_lang=Select language
+tts_subtitles=Voice subtitles
+tts_subtitles_screen_reader=Use screen reader to read subtitles. If disabled, the subtitle text will be read by sapi. If there is no available screen reader currently, please ignore this option.
+
+room_board=Room board
+room_board_description=A hard cement floor.
+wall=Wall
+wall2=The wall that something wrong with
+wall_description=A wall made of reinforced concrete that is incredibly hard.
+wall_normal=This wall is normal.
+wall_abnormal=But there seems abnormal.
+enter_hole=opening
+enter_hole_description=An opening that can only accommodate one person to pass through.
+in_hole=In the hole
+in_hole_description=The hole is very crowded and can only fit two people crawling forward.
+btn=Switch
+btn_description=This is the only object in the hole.
+gate=steel door
+gate_description=A door made of incredibly hard steel plates.
+padded_cloth=Sweater
+padded_cloth_description=This sweater was sent by Fan Zhituo's grandfather from his hometown, and Fan Zhituo takes great care of it.
+knife=Large knife
+knife_description=A very large knife, nobody know what its purpose is.
+sign=Sign
+sign_description=A sign hanging on the wall.
+sign_clear1_description=There is an arrow on the left side of this sign, and the English word "exit" and Chinese characters "安全出口" are written on the right side.
+sign_clear2_description=There is the English word "exit" and Chinese characters "安全出口" are written on the left side of this sign, and an arrow on the right side.
+sign_clear_normal_description=In the middle is a pattern of a door frame, and in the center of the door is a green figure running.
+sign_opening=Ventilation opening
+sign_arrow1=Left arrow
+sign_arrow2=Right arrow
+sign_man=The green man
+sign_text=Text
+sign_spot=A white dot
+sign_opening_description=A ventilation opening locked by a grid, you don't know how to open it.
+sign_arrow1_description=A arrow pointing to left.
+sign_arrow2_description=A arrow pointing to right.
+sign_man_description=A green man running.
+sign_text_description=The English letter "exit" and Chinese characters "安全出口".
+sign_spot_description=There is a white dot at the right foot of the green man. What does it mean?
+
+fzt=Fan Zhituo
+fzt_description=The confused and helpless big bro trapped in the secret room.
+zm1=Strange object
+zm1_description=You only realized when you got closer that this was a curled up person who seemed to be in a coma.
+zm2=Stranger
+zm2_description=This is the only person you found in the secret room, and it seems that he is unaware of his situation (although you don't seem to have any neither).
+zm3=Zheng Ming
+zm3_description=He is an electrician, and like Fan Zhituo, he also comes from the mysterious Mirage Game Hall.
+
+save_title=Save game
+save_content=Please enter the name of the save file.
+file_exists=File %1 already exists. Are you sure you want to overwrite it?
+game_saved=The game has saved.
+canceled=Canceled
+save_failed=Can't save the game now.
+do_you_save=Do you want to save game before exiting?
+
+navigation_menu=Navigation menu, use the up and down arrows to browse, and press enter to activate automatic wayfinding.
+directly=
+left=left
+on_the_left=on the left
+right=right
+on_the_right=on the right
+rear=rear
+behind=behind
+front=front
+in_front=in front
+current_location=current_location
+direction_text=%1
+theres_nothing=There is nothing %1.
+theres=There is %2 %1.
+follow=Follow %1
+stop_following=Stop following
+the_number_of_takeable_object=The number of objects which can be taken is %1.
+they_are=They are: %1.
+
+inventory_empty=There is nothing on you.
+you_are=You are %1
+touch_nothing=you don't touch anything.
+touch_pocket=You are touching the %1 in your pocket.
+touch=You are touching a %1.
+nothing_on_the_ground=There is nothing on the ground.
+something_on_the_ground=There is %1 on the ground.
+
+movement_mode_walk=walking
+movement_mode_run=running
+movement_mode_squat=crouching
+
+plot_text1=You noticed a strange object at your %1.
+plot_text2=Press the switch?
+plot_text3=Take the sign?
+
+opening_tutorial=Now, you need to control Fan Zhituo to crawl inside the ventilation duct. Press the up arrow key to crawl forward, and press' h 'to check the remaining stamina. Every minute and second in the ventilation duct, Fan Zhituo experiences a certain amount of stamina loss, and you need to crawl out of the duct before all his stamina is exhausted. If Fan Zhito coughs, it proves that his stamina is running low. Keep crawling slowly and steadily forward. If it's too fast, not only will it fail to make any progress, but it will also make Fan Zhituo's stamina depletion faster.
+opening_tutorial_android=Now, you need to control Fan Zhituo to crawl inside the ventilation duct. Swipe up with one finger to crawl forward, and swipe left or right to check the remaining stamina. Every minute and second in the ventilation duct, Fan Zhituo experiences a certain amount of stamina loss, and you need to crawl out of the duct before all his stamina is exhausted. If Fan Zhito coughs, it proves that his stamina is running low. Keep crawling slowly and steadily forward. If it's too fast, not only will it fail to make any progress, but it will also make Fan Zhituo's stamina depletion faster.
+
+sign_menu=You keep looking left and right at this sign.
+sign_menu2=Which sign is more suspicious?
+sign_menu2_o1=The sign in front
+sign_menu2_o2=The sign at the back
+sign_menu2_o3=The sign on the left
+sign_menu2_o4=The sign on the right
+sign_menu3=What is the problem with this sign?
+
+ending=Game over!browse the menu to learn more.
+ending_name=Achieving ending: %1.
+ending_return=Press any option to return to the main menu.
+ending1_name=Absurd death
+ending1_description=Poor Brother Zheng Ming was quietly waiting for your message outside the hole when suddenly the ceiling fell inexplicably and quickly, causing Zheng Ming, who was at a loss, to be inexplicably crushed to death! What, you wonder  why didn't he drill into the hole by himself? He has a slower reflection arc, ok? and his brain is scared to the point of crashing, ok? Tip: Big brother, it's best to discuss with each other before taking action next time. The spirit of cooperation is very important!
+ending2_name=Downtime enthusiasts
+ending2_description=The two protagonists of the story were both smashed to death by the ceiling! Tip: React quickly next time, and when the ceiling falls down, quickly hide. Where on earth can we hide? If you can ask this question, it is obvious that you have not listened to the plot at all. Oh, I almost forgot that you may not understand Chinese! But really, this shouldn't happen, right? I distinctly remember the subtitle function being enabled by default. Did you turn it off or something? That would be pretty terrible! Anyway, let me give you the secound tip: Where were you pulled out just now?
+ending3_name=Unclear,Unclear
+ending3_description=In theory, Brother Zheng Ming should be able to enter the hole smoothly before the ceiling falls, but, but, but, but, but, why is this?
+ending4_name=Daydream to die
+ending4_description=The ceiling is about to fall, why don't you find a place to hide? Now it's okay, you've been smashed to death. You  are satisfied, arn't you! Tip: If you can't find the way, try opening the navigation menu, it will guide you in the direction you're going.
+
+game_end=Game completed!
+total_play_time=Total play time: %1 minutes.
+game_completed_nothing_can_be_done=Oh, look who's here! I'm truly touched that you still remember to come back even after finishing the game! But I might have to let you down—right now, there's nothing left to do after completing the game. How about coming back another time? Who knows, maybe I'll sneak in an update one of these days!
+
+and=and
+y_n=Press Y for yes and N for no.
+y_n_android=Swipe right for yes and left for no.
+y_n_cancel=Press ESC to cancel.
+y_n_cancel_android=swipe up to cancel.

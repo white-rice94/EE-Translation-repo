@@ -1,0 +1,5 @@
+241:Brother.
+1369:Go check that steel door,
+3843:Check if the door
+4888:Opens inward or outward.
+7567:Okay. 
