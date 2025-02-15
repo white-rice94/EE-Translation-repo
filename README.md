@@ -4,7 +4,7 @@ This repository is dedicated to the translation work for the game **"Emerjency E
 ## Translation Steps  
 1. **Fork this repository** and clone it locally.  
 2. **Create a new branch** for your work, whether adding a new language or revising an existing one. Perform all changes in this branch.  
-3. Use the game files in the repository to **test your translations** at any time.  
+3. Use the game files in the releases to **test your translations** at any time.  
 4. After completing your work, **submit a pull request**. In the pull request description, clearly outline the changes you made.  
 
 ---
